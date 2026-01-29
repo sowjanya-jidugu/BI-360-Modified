@@ -11,31 +11,31 @@ This repository contains my **Power BI 360 dashboards**, showcasing data analysi
 *Overview of key metrics and overall dashboard navigation.*
 
 ### Page 2 – Finance View
-![Finance View](images/Dashboard_Page2.png)
+![Finance View](https://github.com/sowjanya-jidugu/BI-360-Modified/blob/main/Finance_View.png?raw=true)
 *Displays financial KPIs, revenue, expenses, and profitability analysis.*
 
 ### Page 3 – Sales View
-![Sales View](images/Dashboard_Page3.png)
+![Sales View](https://github.com/sowjanya-jidugu/BI-360-Modified/blob/main/Sales_View.png?raw=true)
 *Shows sales performance, trends, and regional sales comparisons.*
 
 ### Page 4 – Marketing View
-![Marketing View](images/Dashboard_Page4.png)
+![Marketing View](https://github.com/sowjanya-jidugu/BI-360-Modified/blob/main/Marketing_View.png?raw=true)
 *Highlights marketing campaigns, leads, and campaign ROI.*
 
 ### Page 5 – Executive View
-![Executive View](images/Dashboard_Page5.png)
+![Executive View](https://github.com/sowjanya-jidugu/BI-360-Modified/blob/main/Executive_View.png?raw=true)
 *Provides top-level KPIs and strategic insights for executives.*
 
 ### Page 6 – Supply Chain View
-![Supply Chain View](images/Dashboard_Page6.png)
+![Supply Chain View](https://github.com/sowjanya-jidugu/BI-360-Modified/blob/main/Supply_Chain_View_View.png?raw=true)
 *Tracks supply chain metrics, inventory levels, and logistics performance.*
 
 ### Page 7 – Information View
-![Information View](images/Dashboard_Page7.png)
+![Information View](https://github.com/sowjanya-jidugu/BI-360-Modified/blob/main/Info.png?raw=true)
 *Contains detailed operational and informational metrics.*
 
 ### Page 8 – Support View
-![Support View](images/Dashboard_Page8.png)
+![Support View](https://github.com/sowjanya-jidugu/BI-360-Modified/blob/main/Support_View.png?raw=true)
 *Shows customer support metrics, ticket tracking, and resolution times.*
 
 ---
