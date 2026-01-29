@@ -27,7 +27,7 @@ This repository contains my **Power BI 360 dashboards**, showcasing data analysi
 *Provides top-level KPIs and strategic insights for executives.*
 
 ### Page 6 – Supply Chain View
-![Supply Chain View](https://github.com/sowjanya-jidugu/BI-360-Modified/blob/main/Supply_Chain_View_View.png?raw=true)
+![Supply Chain View](https://github.com/sowjanya-jidugu/BI-360-Modified/blob/main/Supply_Chain_View.png?raw=true)
 *Tracks supply chain metrics, inventory levels, and logistics performance.*
 
 ### Page 7 – Information View
