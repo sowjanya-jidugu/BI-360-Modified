@@ -40,14 +40,7 @@ This repository contains my **Power BI 360 dashboards**, showcasing data analysi
 
 ---
 
-## 🔗 Interactive Dashboard
 
-You can also view the **live interactive dashboard** here:  
-[View Interactive Dashboard](https://app.powerbi.com/view?r=YOUR_PUBLISH_LINK)
-
-> ⚠️ Note: The live report is hosted on Power BI Service and contains **no confidential or sensitive data**.
-
----
 
 ## ✅ Features of the Dashboard
 
@@ -62,6 +55,6 @@ You can also view the **live interactive dashboard** here:
 ## 💡 Notes for Recruiters
 
 - All images are **static snapshots** of the report.  
-- The live dashboard contains **no confidential or sensitive data**.  
+- The  dashboard contains **no confidential or sensitive data**.  
 - This project demonstrates **Power BI report design, data visualization, and insights communication** skills.
--
+
