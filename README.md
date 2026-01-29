@@ -7,7 +7,7 @@ This repository contains my **Power BI 360 dashboards**, showcasing data analysi
 ## 📊 Dashboard Screenshots
 
 ### Page 1 – Home Page
-![Home Page]()
+![Home Page](https://github.com/sowjanya-jidugu/BI-360-Modified/blob/main/Dashboard_Page1.png?raw=true)
 *Overview of key metrics and overall dashboard navigation.*
 
 ### Page 2 – Finance View
